@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Sanaa </h1>
 
 <p align="center">
-  Junior Software & DevOps Engineer • Full-Stack Java Developer • Problem Solver
+  Junior Software & DevOps Engineer • Problem Solver
 </p>
 
 <p align="center">
