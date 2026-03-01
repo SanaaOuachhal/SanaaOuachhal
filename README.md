@@ -73,9 +73,9 @@ Machine learning-based fraud detection (supervised & unsupervised approaches) in
 ## 📫 How to Reach Me
 
 <p align="left">
-  💼 <a href="https://linkedin.com/in/sanaa-ouachhal">LinkedIn</a><br>
-  🌐 <a href="https://souachhal-portfolio.vercel.app/">Portfolio</a><br>
-  ✍️ <a href="https://medium.com/@sanaaouachhal">Medium</a><br>
+  💼 <a href="https://www.linkedin.com/in/sanaa-ouachhal-733053247/">LinkedIn</a><br>
+  🌐 <a href="https://sanaaouachhal.vercel.app/">Portfolio</a><br>
+  ✍️ <a href="https://medium.com/@sanaa.ouachhal.02">Medium</a><br>
   📧 ouachhal.sanaa@gmail.com
 </p>
 
