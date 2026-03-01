@@ -1,54 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Sanaa </h1>
 
-👩‍💻 Who am I?
+<p align="center">
+  Junior Software & DevOps Engineer • Full-Stack Java Developer • Problem Solver
+</p>
 
-Junior Software & DevOps Engineer passionate about building scalable and secure web applications.
+<p align="center">
+  📍 Casablanca, Morocco  
+</p>
 
-I specialize in Full-Stack development (Java / Spring Boot / React / Angular) and Cloud-native DevOps practices, with hands-on experience in REST architectures, containerized deployments, CI/CD pipelines, and observability stacks.
+---
 
-I’m particularly interested in designing business-driven solutions in data and financial environments.
+## 👩‍💻 Who am I?
 
-🚀 What I’m currently working on
+I’m a Junior Software & DevOps Engineer passionate about building scalable, secure and maintainable web applications.
 
-Building secure RESTful applications with Spring Boot & React
+With hands-on experience in **Java (Spring Boot), React, Angular, Go and Cloud-native DevOps**, I design and deploy REST-based architectures with a strong focus on:
 
-Developing and deploying microservices (Java & Go)
+- Clean architecture & SOLID principles  
+- Secure authentication (Keycloak, JWT, OAuth2)  
+- Containerized deployments (Docker, Kubernetes)  
+- Observability & monitoring (ELK, Prometheus, Grafana)  
 
-Improving observability with ELK, Prometheus & Grafana
+I’m particularly interested in developing **business-driven solutions in data and financial environments**.
 
-Strengthening DevOps pipelines (Docker, Kubernetes, Azure DevOps)
+---
 
-Exploring scalable cloud-native architectures
+## 🚀 What I'm Currently Working On
 
-🛠 Tech Stack
+- Building secure RESTful applications with **Spring Boot & React**
+- Developing microservices in **Java & Go**
+- Designing CI/CD pipelines (Jenkins, Azure DevOps)
+- Improving observability with **ELK Stack & Prometheus**
+- Exploring scalable cloud-native architectures
 
-Languages
-Java · Go · Python · TypeScript · JavaScript · Bash
+---
 
-Backend
-Spring Boot · Spring Security · JPA/Hibernate · REST APIs
+## 🛠 Tech Stack
 
-Frontend
-Angular · React · Next.js
+### 💻 Programming Languages
+`Java` · `Go` · `Python` · `TypeScript` · `JavaScript` · `Bash`
 
-Security
-Keycloak · JWT · OAuth2 · OpenID Connect
+### ⚙️ Backend
+`Spring Boot` · `Spring Security` · `JPA/Hibernate` · `REST APIs`
 
-DevOps & Cloud
-Docker · Kubernetes · Terraform · Azure · Jenkins · Helm
+### 🎨 Frontend
+`Angular` · `React` · `Next.js`
 
-Observability & Quality
-ELK Stack · Prometheus · Grafana · SonarQube · Trivy
+### 🔐 Security
+`Keycloak` · `JWT` · `OAuth2` · `OpenID Connect`
 
-Databases
-PostgreSQL · MySQL · Elasticsearch
+### ☁️ DevOps & Cloud
+`Docker` · `Kubernetes` · `Terraform` · `Azure` · `Jenkins` · `Helm`
 
-📫 How to reach me
+### 📊 Observability & Quality
+`ELK Stack` · `Prometheus` · `Grafana` · `SonarQube` · `Trivy`
 
-💼 LinkedIn: linkedin.com/in/sanaa-ouachhal
+### 🗄 Databases
+`PostgreSQL` · `MySQL` · `Elasticsearch`
 
-🌐 Portfolio: souachhal-portfolio.vercel.app
+---
 
-✍️ Medium: medium.com/@sanaaouachhal
+## 📌 Featured Projects
 
-📧 Email: ouachhal.sanaa@gmail.com
+🔐 **Secure Access Management Platform**  
+Full-stack secure application using Spring Boot, React, Keycloak & JWT with CI/CD pipeline integration.
+
+📊 **Fraud Detection System**  
+Machine learning-based fraud detection (supervised & unsupervised approaches) integrated into a REST backend.
+
+---
+
+## 📫 How to Reach Me
+
+<p align="left">
+  💼 <a href="https://linkedin.com/in/sanaa-ouachhal">LinkedIn</a><br>
+  🌐 <a href="https://souachhal-portfolio.vercel.app/">Portfolio</a><br>
+  ✍️ <a href="https://medium.com/@sanaaouachhal">Medium</a><br>
+  📧 ouachhal.sanaa@gmail.com
+</p>
+
+---
+
+<p align="center">
+  ⚡ Always learning • Always building • Always improving
+</p>
